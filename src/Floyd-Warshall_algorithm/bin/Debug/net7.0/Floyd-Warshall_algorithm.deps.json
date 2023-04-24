@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Floyd-Warshall_algorithm/1.0.0": {
+        "runtime": {
+          "Floyd-Warshall_algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Floyd-Warshall_algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

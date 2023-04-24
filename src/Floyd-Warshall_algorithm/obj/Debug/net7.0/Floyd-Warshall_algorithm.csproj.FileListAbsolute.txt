@@ -1,0 +1,15 @@
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\bin\Debug\net7.0\Floyd-Warshall_algorithm.exe
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\bin\Debug\net7.0\Floyd-Warshall_algorithm.deps.json
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\bin\Debug\net7.0\Floyd-Warshall_algorithm.runtimeconfig.json
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\bin\Debug\net7.0\Floyd-Warshall_algorithm.dll
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\bin\Debug\net7.0\Floyd-Warshall_algorithm.pdb
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.csproj.AssemblyReference.cache
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.AssemblyInfoInputs.cache
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.AssemblyInfo.cs
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.dll
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\refint\Floyd-Warshall_algorithm.dll
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.pdb
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\Floyd-Warshall_algorithm.genruntimeconfig.cache
+C:\Users\jindr\source\repos\Floyd-Warshall_algorithm\Floyd-Warshall_algorithm\obj\Debug\net7.0\ref\Floyd-Warshall_algorithm.dll
