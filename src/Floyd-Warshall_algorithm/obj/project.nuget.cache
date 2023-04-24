@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+msVJ5AcIS79x674t4Tgq6+cf1Z4ozHBtR/K4DYjm98+VHtl8ZxR7tuSFcHiXjO8nrtrrkkI9H0x8/ddf1m0jg==",
+  "dgSpecHash": "6PlCv1VZ0g8n483x5vHL4XlJw0XNWM2rSCSIUHeh4aFFk2v0KpRE9+qqtstL8WYaZRIpoPhTm7S0hVJNmvLoRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jindr\\source\\repos\\Floyd-Warshall_algorithm\\Floyd-Warshall_algorithm\\Floyd-Warshall_algorithm.csproj",
+  "projectFilePath": "C:\\Users\\jindr\\Floyd-Warshall_algorithm\\src\\Floyd-Warshall_algorithm\\Floyd-Warshall_algorithm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
